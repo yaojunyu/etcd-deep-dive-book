@@ -1,2 +1,2 @@
-# ETCD之Raft实现
+# ETCD Raft实现
 

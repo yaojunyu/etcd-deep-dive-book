@@ -2,13 +2,17 @@
 
 * [前言](README.md)
 
+## arch
+
+* [ETCD架构](arch/etcd-jia-gou.md)
+
 ## raft
 
-* [ETCD之Raft实现](raft/etcd-zhi-raft-shi-xian.md)
+* [ETCD Raft实现](raft/etcd-zhi-raft-shi-xian.md)
 
 ## store
 
-* [ETCD之存储](store/etcd-zhi-cun-chu.md)
+* [ETCD存储](store/etcd-zhi-cun-chu.md)
 
 ## server
 
