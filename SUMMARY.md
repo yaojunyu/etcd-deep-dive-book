@@ -4,7 +4,7 @@
 
 ## arch
 
-* [ETCD架构](arch/etcd-jia-gou.md)
+* [ETCD整体架构](arch/etcd-jia-gou.md)
 
 ## raft
 
